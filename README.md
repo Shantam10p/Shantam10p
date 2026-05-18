@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shantam Budhathoki</h1>
-<h3 align="center">Full-Stack Software Developer building AI-powered systems that solve real problems</h3>
+<h3 align="center">CS Student and Full-Stack Developer motivated to build real-world AI-powered systems</h3>
 
 <p align="center">
   <a href="https://github.com/Shantam10p"><img src="https://img.shields.io/badge/GitHub-Shantam10p-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
