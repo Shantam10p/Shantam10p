@@ -2,20 +2,11 @@
 <h3 align="center">Full-Stack Software Developer building AI-powered systems that solve real problems</h3>
 
 <p align="center">
-  <a href="https://github.com/Shantam10p">
-    <picture>
-      <img src="https://img.shields.io/badge/GitHub-Shantam10p-181717?style=for-the-badge&logo=github" alt="GitHub" />
-    </picture>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/shantamb">
-    <picture>
-      <img src="https://img.shields.io/badge/LinkedIn-Shantam_Budhathoki-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-    </picture>
-  </a>
-  &nbsp;
+  <a href="https://github.com/Shantam10p"><img src="https://img.shields.io/badge/GitHub-Shantam10p-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/shantamb"><img src="https://img.shields.io/badge/LinkedIn-Shantam_Budhathoki-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <img src="https://img.shields.io/badge/Location-Fremont%2C%20CA-2E8B57?style=for-the-badge" alt="Location" />
 </p>
+
 ---
 
 ## About Me
@@ -139,4 +130,4 @@ I'm always open to connecting with people who enjoy building thoughtful software
 - LinkedIn: [linkedin.com/in/shantamb](https://linkedin.com/in/shantamb)
 - GitHub: [github.com/Shantam10p](https://github.com/Shantam10p)
 
-Thanks for stopping by.
+Thanks for stopping by. 
