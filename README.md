@@ -16,7 +16,7 @@ I'm a Computer Science undergraduate at **San Francisco Bay University** with a 
 What excites me most is creating technology that has **real impact on people's lives**. I enjoy taking ideas from concept to product and learning through the process of building practical, user-facing systems.
 
 Right now, I'm focused on growing as a developer in:
-- Full-stack web development
+- Full-stack software development
 - AI-powered applications
 - Scalable backend systems
 - Real-world product building
