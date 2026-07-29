@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shantam Budhathoki</h1>
-<h3 align="center">CS Student and Full-Stack Developer motivated to build real-world AI-powered systems</h3>
+<h3 align="center">CS Student building agentic AI systems and full-stack products that people actually use</h3>
 
 <p align="center">
   <a href="https://github.com/Shantam10p"><img src="https://img.shields.io/badge/GitHub-Shantam10p-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -11,31 +11,38 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at **San Francisco Bay University** with a strong interest in building **full-stack AI software and systems**.
+I'm a Computer Science undergraduate at **San Francisco Bay University**, currently working as an **Agentic AI Intern at Elements Haus** ([ClickFlick](https://clickflick.ai)), where I'm building a LangGraph multi-agent pipeline that lets players create their own playable games through natural-language prompting.
 
 What excites me most is creating technology that has **real impact on people's lives**. I enjoy taking ideas from concept to product and learning through the process of building practical, user-facing systems.
 
-Right now, I'm focused on growing as a developer in:
-- Full-stack software development
-- AI-powered applications
-- Scalable backend systems
-- Real-world product building
+Right now, I'm focused on growing as an engineer in:
+- Agentic AI: multi-agent pipelines, tool use, and reliability
+- LLM-driven workflows, RAG, and AI tooling
+- Full-stack product development
+- Scalable backend systems and cloud deployment
 
 ---
 
-## What I’m Working Toward
+## What I'm Working Toward
 
 I'm currently sharpening my skills in building systems that combine:
+- LLM agents that do real work reliably (and understanding why they fail)
 - clean frontend experiences
 - reliable backend architecture
 - databases and cloud deployment
-- LLM-driven workflows and AI tooling
 
 This GitHub is where I document that journey through projects, experiments, and products I'm actively building.
 
 ---
 
 ## Tech Stack
+
+### AI / LLM Tools
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square)
+![Multi-Agent Systems](https://img.shields.io/badge/Multi--Agent_Systems-FF6F61?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_%26_Web_Search_Grounding-0E8A16?style=flat-square)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -47,6 +54,7 @@ This GitHub is where I document that journey through projects, experiments, and 
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript_UI-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
@@ -64,25 +72,25 @@ This GitHub is where I document that journey through projects, experiments, and 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### AI / LLM Tools
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-6C47FF?style=flat-square)
-
 ---
 
 ## Featured Work
 
 ### Sensei AI
-A full-stack AI study planning and tutoring system built with **React, FastAPI, MySQL, LangGraph, and OpenAI API**.
+A multi-agent AI study planning and tutoring system built with **React, FastAPI, MySQL, LangGraph, and OpenAI API**.
 
 Key highlights:
-- Personalized study planning and tutoring workflows
-- Multi-agent orchestration for topic analysis and content generation
-- Context-aware memory and summarization
-- Authentication, chat history persistence, and structured backend services
+- Multi-agent LangGraph orchestration (planner and tutor agents) with fallback handling
+- Web-search grounding so tutoring answers draw on current, authoritative sources
+- Context-aware memory: sliding window + LLM summarization to bound token usage
+- Content caching, authentication, chat history persistence, and structured backend services
 
 [View Project](https://github.com/Shantam10p/Sensei-AI)
+
+### When the Tools Break
+Research on **tool-call hallucinations in agentic workflows**: why LLM agents invoke tools incorrectly or fabricate tool outputs, and what mitigations (schema validation, fallback handling, trace observability) actually help.
+
+[View Project](https://github.com/Shantam10p/ToolBreak)
 
 ### Hirense
 A skill-based hiring platform built with **React, FastAPI, Supabase, Docker, and GCP**.
@@ -96,19 +104,25 @@ Key highlights:
 
 ## Experience
 
-### Software Developer Intern | Elements Haus LLC
-Worked on **ClickFlick.ai**, a TikTok-style platform for AI-generated mini games.
+### Agentic AI Intern | Elements Haus LLC (Jun 2026 – Present)
+Building **"Create Mode"** on [ClickFlick](https://clickflick.ai): a LangGraph multi-agent pipeline where players create playable HTML5 games through iterative natural-language prompting, on top of a custom game framework.
+
+Also built an **autonomous LangChain agent pipeline** that ideates game concepts and builds them end-to-end without human input, with **80+ AI-generated games** live in production.
+
+### Software Developer Intern | Elements Haus LLC (Aug 2025 – Dec 2025)
+Worked on **ClickFlick**, a TikTok-style mobile app (iOS & Android) for AI-generated mini games.
 
 Highlights:
-- Built a full-stack product using **React, TypeScript, Node.js, and MongoDB**
-- Developed an **LLM-based game generation pipeline** using LangChain
-- Helped deploy and maintain services using **AWS EC2, S3, Redis, and backend infrastructure**
-- Contributed to a platform serving **200+ users** with **80+ games in production**
+- Developed the app frontend in **React Native with TypeScript**
+- Built backend services with **Node.js, MongoDB, and Redis**
+- Helped deploy and maintain services using **AWS EC2 and S3**
+- Contributed to a product serving **200+ users**
 
 ---
 
-## Achievements
+## Achievements & Certifications
 
+- **Agentic AI — DeepLearning.AI** ([View Certificate](https://learn.deeplearning.ai/certificates/e677c106-ba36-4460-b003-43c39372fb1d))
 - **Second Runner Up, BayHack Hackathon 2025**
   - Built an AI-powered warehouse guidance system for navigation and task efficiency
 
@@ -118,7 +132,7 @@ Highlights:
 
 On this GitHub, you'll find projects that reflect:
 - my learning journey
-- my interest in AI and software systems
+- my interest in agentic AI and software systems
 - my effort to build products that are useful, practical, and meaningful
 
 ---
@@ -130,4 +144,4 @@ I'm always open to connecting with people who enjoy building thoughtful software
 - LinkedIn: [linkedin.com/in/shantamb](https://linkedin.com/in/shantamb)
 - GitHub: [github.com/Shantam10p](https://github.com/Shantam10p)
 
-Thanks for stopping by. 
+Thanks for stopping by.
