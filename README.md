@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shantam Budhathoki</h1>
-<h3 align="center">CS Student building agentic AI systems and full-stack products that people actually use</h3>
+<h3 align="center">CS Student | Agentic AI &amp; Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://github.com/Shantam10p"><img src="https://img.shields.io/badge/GitHub-Shantam10p-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate at **San Francisco Bay University**, currently working as an **Agentic AI Intern at Elements Haus** ([ClickFlick](https://clickflick.ai)), where I'm building a LangGraph multi-agent pipeline that lets players create their own playable games through natural-language prompting.
+I'm a Computer Science undergraduate at **San Francisco Bay University**, currently working as an **Agentic AI Intern at Elements Haus** ([ClickFlick](https://clickflick.ai)), building multi-agent systems for AI-generated games.
 
 What excites me most is creating technology that has **real impact on people's lives**. I enjoy taking ideas from concept to product and learning through the process of building practical, user-facing systems.
 
